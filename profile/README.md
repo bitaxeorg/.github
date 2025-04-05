@@ -4,7 +4,7 @@
 Bitcoin is intrinsically open source. Bitcoin Mining will be too.
 ```
 
-Welcome to the [bitaxe.org](https://bitaxe.org) open source repository. Here you will find all of the source and design files for the decentralized future of Bitcoin mining..
+Welcome to the [bitaxe](https://bitaxe.org) open source repository. Here you will find source and design files for the decentralized future of Bitcoin mining..
 
 ## Hardware
 All projects are created with the incredible, free and open source [KiCad](https://kicad.org) PCB design tools

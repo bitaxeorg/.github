@@ -25,7 +25,17 @@ All projects are created with the incredible, free and open source [KiCad](https
 ![osmu logo](../osmu.png "OSMU")
 Bitaxe development happens via talented legends like you at the [Open Source Miners United](https://osmu.xyz) Discord chat. 
 
-Funding thanks to [OpenSats](https://opensats.org), [The Human Rights Foundation](https://hrf.org), [The 256 Foundation](https://256foundation.org) and individual contributors worldwide. 
+
+## Funding
+Massive thanks to: 
+
+- [OpenSats](https://opensats.org)
+- [The Human Rights Foundation](https://hrf.org)
+- [The 256 Foundation](https://256foundation.org)
+- [OSMU](https://osmu.xyz) 
+- individual contributors worldwide
+
+Thank you for supporting open source Bitcoin mining development.
 
 Bitcoin donations accepted on-chain: `bc1qnp980s5fpp8l94p5cvttmtdqy8rvrq74qly2yrfmzkdsntqzlc5qkc4rkq`, or on the lightning network at: `osmu@getalby.com`
 

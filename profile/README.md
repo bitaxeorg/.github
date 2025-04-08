@@ -2,7 +2,8 @@
 ![bitaxe logo](../plain-logo-black.png#gh-light-mode-only "Bitaxe")
 
 ```
-Bitcoin is intrinsically open source. Bitcoin Mining will be too.
+Bitcoin is intrinsically open source. 
+Bitcoin Mining will be too.
 ```
 
 Welcome to the [bitaxe](https://bitaxe.org) open source repository. Here you will find source and design files for the decentralized future of Bitcoin mining..
@@ -18,7 +19,7 @@ All projects are created with the incredible, free and open source [KiCad](https
 
 ## Firmware
 - [esp-miner](https://github.com/bitaxeorg/esp-miner) - ESP32-based mining firmware for the Bitaxe, including the AxeOS dashboard.
-- [bitaxe-raw](https://github.com/bitaxeorg/bitaxe-raw) - low level R&D firmware for usbserial communication with a Bitaxe
+- [bitaxe-raw](https://github.com/bitaxeorg/bitaxe-raw) - low level R&D firmware for usbserial communication with a Bitaxe.
 
 ## Development
 ![osmu logo](../osmu.png "OSMU")

@@ -16,10 +16,12 @@ All projects are created with the incredible, free and open source [KiCad](https
 - [bitaxeGammaTurbo](https://github.com/bitaxeorg/bitaxeGT) - 800 series dual chip miner based on the BM1370 ASIC from the Antminer S21 Pro
 
 ## Firmware
-- [esp-miner](https://github.com/bitaxeorg/esp-miner) - ESP32-based mining firmware for The Bitaxe
+- [esp-miner](https://github.com/bitaxeorg/esp-miner) - ESP32-based mining firmware for the Bitaxe, including the AxeOS dashboard.
+- [bitaxe-raw](https://github.com/bitaxeorg/bitaxe-raw) - low level R&D firmware for usbserial communication with a Bitaxe
 
 ## Development
-Bitaxe development happens via talented legends like you at the [Open Source Miners United](https://discord.gg/osmu) Discord chat. 
+![osmu logo](../osmu.png "OSMU")
+Bitaxe development happens via talented legends like you at the [Open Source Miners United](https://osmu.xyz) Discord chat. 
 
 Funding thanks to [OpenSats](https://opensats.org), [The Human Rights Foundation](https://hrf.org), [The 256 Foundation](https://256foundation.org) and individual contributors worldwide. 
 

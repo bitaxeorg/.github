@@ -1,5 +1,5 @@
-![bitaxe logo](./plain-logo-white.png#gh-dark-mode-only "Bitaxe")
-![bitaxe logo](./plain-logo-black.png#gh-light-mode-only "Bitaxe")
+![bitaxe logo](../plain-logo-white.png#gh-dark-mode-only "Bitaxe")
+![bitaxe logo](../plain-logo-black.png#gh-light-mode-only "Bitaxe")
 
 ```
 Bitcoin is intrinsically open source. Bitcoin Mining will be too.

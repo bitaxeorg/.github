@@ -23,6 +23,7 @@ All projects are created with the incredible, free and open source [KiCad](https
 
 ## Development
 ![osmu logo](../osmu.png "OSMU")
+
 Bitaxe development happens via talented legends like you at the [Open Source Miners United](https://osmu.xyz) Discord chat. 
 
 

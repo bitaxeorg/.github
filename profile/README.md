@@ -38,7 +38,7 @@ Massive thanks to:
 
 Thank you for supporting open source Bitcoin mining development.
 
-Bitcoin donations accepted on-chain: [Link](https.//donate.osmu.xyz), or on the lightning network at: `osmu@getalby.com`
+Bitcoin donations accepted on-chain: [Link](https://donate.osmu.xyz), or on the lightning network at: `osmu@getalby.com`
 
 
 

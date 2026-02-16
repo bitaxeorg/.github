@@ -3,7 +3,7 @@
 
 ```
 Bitcoin is intrinsically open source. 
-Bitcoin Mining will be too.
+Bitcoin Mining will once again be open source too.
 ```
 
 Welcome to the [bitaxe](https://bitaxe.org) open source repository. Here you will find source and design files for the decentralized future of Bitcoin mining..

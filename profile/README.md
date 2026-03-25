@@ -16,6 +16,7 @@ All projects are created with the incredible, free and open source [KiCad](https
 - [bitaxeSupra](https://github.com/bitaxeorg/bitaxeSupra)  - 400 series miner based on the BM1368 ASIC from the Antminer S21
 - [bitaxeGamma](https://github.com/bitaxeorg/bitaxeGamma) - 600 series miner based on the BM1370 ASIC from the Antminer S21 Pro
 - [bitaxeGammaTurbo](https://github.com/bitaxeorg/bitaxeGT) - 800 series dual chip miner based on the BM1370 ASIC from the Antminer S21 Pro
+- [BitaxeGTTouchDisplay](https://github.com/bitaxeorg/BAP-GT-TOUCH) - A Touch Display for the Bitaxe GT utilizing the BAP Protocol
 
 ## Firmware
 - [esp-miner](https://github.com/bitaxeorg/esp-miner) - ESP32-based mining firmware for the Bitaxe, including the AxeOS dashboard.
